@@ -1,0 +1,22 @@
+2023-11-05 22:20:07.3063 INFO Time:05-11-2023 22:20:07 , user is registered ,UserController
+2023-11-05 22:22:33.1891 INFO Time:05-11-2023 22:22:33 , user is registered ,UserController
+2023-11-05 22:24:51.7092 INFO Time:05-11-2023 22:24:51 ,something went wrong , Email:dpkrcks1@gmail.com ,UserController ,Wrong Password!!
+2023-11-05 22:25:27.1698 INFO Time:05-11-2023 22:25:27 , user with email: dpkrcks1@gmail.com logged in ,UserController
+2023-11-05 22:55:57.1708 ERROR Time:05-11-2023 22:55:57 , something went wrong , System.Exception: Wrong Password!!
+   at LibraryManagement.Services.ServiceImpl.UserServiceImpl.LoginUser(UserLogInDto request) in D:\projects\.net\LibraryManagementExtended\LibraryManagement\Services\ServiceImpl\UserServiceImpl.cs:line 47
+   at LibraryManagement.Controller.UserController.LoginUser(UserLogInDto request) in D:\projects\.net\LibraryManagementExtended\LibraryManagement\Controller\UserController.cs:line 46
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|8_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2023-11-05 22:59:09.3994 INFO Time:05-11-2023 22:59:09 , user with email: dpkrcks1@gmail.com logged in ,UserController
+2023-11-05 23:46:04.5070 INFO Time:05-11-2023 23:46:04 , All users are fiund. , UserController

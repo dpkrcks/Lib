@@ -1,0 +1,15 @@
+D:\projects\.net\LibraryManagementExtended\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\projects\.net\LibraryManagementExtended\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\projects\.net\LibraryManagementExtended\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\projects\.net\LibraryManagementExtended\LoggerService\bin\Debug\net7.0\Contracts.dll
+D:\projects\.net\LibraryManagementExtended\LoggerService\bin\Debug\net7.0\Contracts.pdb
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\projects\.net\LibraryManagementExtended\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll

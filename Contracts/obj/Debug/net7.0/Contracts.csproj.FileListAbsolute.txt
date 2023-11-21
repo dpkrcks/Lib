@@ -1,0 +1,12 @@
+D:\projects\.net\LibraryManagementExtended\Contracts\bin\Debug\net7.0\Contracts.deps.json
+D:\projects\.net\LibraryManagementExtended\Contracts\bin\Debug\net7.0\Contracts.dll
+D:\projects\.net\LibraryManagementExtended\Contracts\bin\Debug\net7.0\Contracts.pdb
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\Contracts.dll
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\Contracts.pdb
+D:\projects\.net\LibraryManagementExtended\Contracts\obj\Debug\net7.0\ref\Contracts.dll
